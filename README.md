@@ -17,7 +17,7 @@
 
 ## INSTALASI LARAVEL
 
-5. ketik di bawah ini untuk XAMPP 
+5. Buka terminal atau Shell di Xampp atau laragon, ketik di bawah ini untuk XAMPP
 
    ~~~~~~~~
    cd htdocs
@@ -29,7 +29,7 @@
    cd www
    ~~~~~~~~ 
 
-   namun saya di sini pakai XAMPP, Jadi sesuaikan kalian pakai web server dari laragon atau XAMPP.
+   namun saya di sini pakai XAMPP, Jadi sesuaikan kalian pakai web server dari laragon atau XAMPP. dan pastikan sudah di arahkan ke direktori htdocs atau www
 
 6. ketik Promt ini untuk download laravel
 
