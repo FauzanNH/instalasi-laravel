@@ -7,7 +7,7 @@
    ![shell](images/shell.PNG)
    ![terminal](images/terminal.png)
 
-4. ketik di bawah ini untuk memastikan composer terinstall
+4. ketik di bawah ini untuk memastikan composer terinstall, Jika composer sudah terinstall maka output prompt nya seperti di gambar di bawah ini :
 
    ~~~~~~~~
    composer --version
