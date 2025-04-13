@@ -77,7 +77,7 @@
     ![laravel stepE](images/lrv5.PNG)
 
 
-## SETUP LARAVEL .ENV DAN MIGRATION & SEEDER
+# SETUP LARAVEL .ENV DAN MIGRATION & SEEDER
 
 ### Setup .env
 
