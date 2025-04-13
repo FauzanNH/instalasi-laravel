@@ -29,7 +29,7 @@
    cd www
    ~~~~~~~~ 
 
-   namun saya di sini pakai XAMPP, Jadi sesuaikan kalian pakai web server dari laragon atau XAMPP. dan pastikan sudah di arahkan ke direktori htdocs atau www
+   namun saya di sini pakai XAMPP, Jadi sesuaikan kalian pakai web server dari laragon atau XAMPP.
 
 6. ketik Promt ini untuk download laravel
 
