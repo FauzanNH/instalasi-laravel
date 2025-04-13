@@ -5,7 +5,7 @@
 3. buka aplikasi web server seperti laragon atau XAMPP, lalu buka menu terminal atau shell
 
    ![shell](images/shell.PNG)
-   ![terminal](images/terminal.PNG)
+   ![terminal](images/terminal.png)
 
 4. ketik di bawah ini untuk memastikan composer terinstall
 
