@@ -17,13 +17,13 @@
 
 ## INSTALASI LARAVEL
 
-5. Buka terminal atau Shell di Xampp atau laragon, ketik di bawah ini untuk XAMPP
+5. Buka terminal atau Shell di Xampp atau laragon, ketik di bawah ini Jika pakai XAMPP
 
    ~~~~~~~~
    cd htdocs
    ~~~~~~~~
 
-   ketik untuk laragon,
+   ketik ini jika menggunakan laragon,
 
    ~~~~~~~~
    cd www
